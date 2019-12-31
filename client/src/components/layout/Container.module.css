@@ -1,0 +1,9 @@
+/* Utilities */
+.container {
+  /* TODO: Change back to 1100? */
+  max-width: 800px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6rem 2rem 0;
+}
